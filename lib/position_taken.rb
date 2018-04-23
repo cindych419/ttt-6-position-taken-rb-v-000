@@ -6,6 +6,6 @@ if board[index] == ""
 if board[index] == nil
   false
 if board[index] == "X" || "O"
-
+  true
 end
 end
