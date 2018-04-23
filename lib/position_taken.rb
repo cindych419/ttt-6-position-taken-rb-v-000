@@ -1,5 +1,5 @@
 def position_taken?(board, index)
 end
-if board[index_number] == " "
+if board[index] == " "
   false
 end
